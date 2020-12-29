@@ -1,6 +1,5 @@
 //
 //  LogViewController.swift
-//  ShaGuaJi
 //
 //  Created by Mayer Lam on 2019/12/23.
 //  Copyright © 2019 shootProj. All rights reserved.

@@ -1,6 +1,5 @@
 //
 //  ResponseHelper.swift
-//  ShaGuaJi
 //
 //  Created by Mayer Lam on 2020/1/12.
 //  Copyright © 2020 shootProj. All rights reserved.

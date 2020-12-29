@@ -1,6 +1,5 @@
 //
 //  ViewControllerHelper.swift
-//  TARtest
 //
 //  Created by Mayer Lam on 2020/3/9.
 //  Copyright © 2020 Mayer Lam. All rights reserved.
